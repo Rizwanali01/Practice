@@ -1,2 +1,6 @@
-print('hello navttc. . .')
-print ('updated hello navttc')
+print('hello\nR')
+print ('i')
+print('z')
+print ('w')
+print ('a')
+print ('n')
